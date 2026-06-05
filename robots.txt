@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://suvendupanda.netlify.app/sitemap.xml
+Sitemap: https://shuvendupanda.netlify.app/sitemap.xml
